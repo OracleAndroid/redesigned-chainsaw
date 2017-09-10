@@ -8,9 +8,6 @@ fn getpath() {
     io::stdin().read_line(&mut path)
         .expect("Failed to read path");
 
-    
-
-    }
 }
 
 fn main() {
